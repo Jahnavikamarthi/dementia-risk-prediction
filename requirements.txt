@@ -8,3 +8,5 @@ shap
 joblib
 jupyter
 openpyxl
+streamlit
+plotly
