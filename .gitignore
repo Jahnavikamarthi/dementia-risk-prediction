@@ -1,0 +1,23 @@
+
+# Python environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# ADNI restricted research data
+data/raw/
+data/processed/
+data/sample/
+
+# Model files
+models/*.pkl
+models/*.joblib
+models/*.model
+
+# Other files
+.env
+.ipynb_checkpoints/
